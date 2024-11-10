@@ -8,8 +8,6 @@ Register : https://t.me/KoniStory_bot/app?startapp=3iILL6YnL
 - Multi-account support
 - Automsted Reffreal
 
-change the reffreal code on line 46
-
 ## Installation
 
 1. Clone this repository to your local machine:
@@ -32,3 +30,4 @@ change the reffreal code on line 46
 ## Configuration
 
 1. Edit the `query.txt` file in the project root directory and add the query initdata, one entry per line.
+2. Change the reffreal code on line 46
