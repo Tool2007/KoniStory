@@ -8,18 +8,20 @@ Register : https://t.me/KoniStory_bot/app?startapp=3iILL6YnL
 - Multi-account support
 - Automsted Reffreal
 
+change the reffreal code on line 46
+
 ## Installation
 
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/gieskuy5/notaibot
+   git clone https://github.com/gieskuy5/KoniStory
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd notaibot
+   cd KoniStory
    ```
 
 3. Install the required dependencies:
