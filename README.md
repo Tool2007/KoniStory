@@ -1,33 +1,27 @@
-# KoniStory
+# koniStory_bot
+link : https://t.me/KoniStory_bot/app?startapp=bYKNWA32m
 
-Register : https://t.me/KoniStory_bot/app?startapp=3iILL6YnL
+## Chức năng
 
-## Features
+- Tự động làm nhiệm vụ 
+- hỗ trợ nhiều tài khoản 
 
-- Automated task 
-- Multi-account support
-- Automsted Reffreal
+## Cách tải
 
-## Installation
-
-1. Clone this repository to your local machine:
+1. git clone :
 
    ```
    git clone https://github.com/gieskuy5/KoniStory
    ```
 
-2. Navigate to the project directory:
+
 
    ```
    cd KoniStory
    ```
 
-3. Install the required dependencies:
+2. Tải thư viện, môi trường 
    ```
    pip install -r requirements.txt
    ```
 
-## Configuration
-
-1. Edit the `query.txt` file in the project root directory and add the query initdata, one entry per line.
-2. Change the reffreal code on line 46
